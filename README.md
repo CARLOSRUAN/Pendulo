@@ -1,0 +1,2 @@
+# Pendulo
+ECUCACION DEL PENDULO
